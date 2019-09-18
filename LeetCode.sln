@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29306.81
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_TwoSum", "1_TwoSum\1_TwoSum.csproj", "{5DCBC35E-AA8D-47CD-ABBC-5B84BB6628A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1_TwoSum", "1_TwoSum\1_TwoSum.csproj", "{5DCBC35E-AA8D-47CD-ABBC-5B84BB6628A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9_PalindromeNumber", "9_PalindromeNumber\9_PalindromeNumber.csproj", "{5D62DECE-7012-4652-A040-FB4806D3C67E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9_PalindromeNumber", "9_PalindromeNumber\9_PalindromeNumber.csproj", "{5D62DECE-7012-4652-A040-FB4806D3C67E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_RomanToInteger", "13_RomanToInteger\13_RomanToInteger.csproj", "{91BB9828-B272-41A8-9754-F2C9D9F3DE4E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13_RomanToInteger", "13_RomanToInteger\13_RomanToInteger.csproj", "{91BB9828-B272-41A8-9754-F2C9D9F3DE4E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20_ValidParentheses", "20_ValidParentheses\20_ValidParentheses.csproj", "{3F25FA2D-05A7-4DE3-9138-9D8EEBECB39F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20_ValidParentheses", "20_ValidParentheses\20_ValidParentheses.csproj", "{3F25FA2D-05A7-4DE3-9138-9D8EEBECB39F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21_MergeTwoSortedLists", "21_MergeTwoSortedLists\21_MergeTwoSortedLists.csproj", "{B4F38763-FF2A-4A8A-AA69-A58089E53E53}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{3F25FA2D-05A7-4DE3-9138-9D8EEBECB39F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F25FA2D-05A7-4DE3-9138-9D8EEBECB39F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F25FA2D-05A7-4DE3-9138-9D8EEBECB39F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4F38763-FF2A-4A8A-AA69-A58089E53E53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4F38763-FF2A-4A8A-AA69-A58089E53E53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4F38763-FF2A-4A8A-AA69-A58089E53E53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4F38763-FF2A-4A8A-AA69-A58089E53E53}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
