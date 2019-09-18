@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20_ValidParentheses", "20_V
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21_MergeTwoSortedLists", "21_MergeTwoSortedLists\21_MergeTwoSortedLists.csproj", "{B4F38763-FF2A-4A8A-AA69-A58089E53E53}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26_RemoveDuplicatesFromSortedArray", "26_RemoveDuplicatesFromSortedArray\26_RemoveDuplicatesFromSortedArray.csproj", "{F68AF38D-9507-4D80-9DA2-755D7A9583BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{B4F38763-FF2A-4A8A-AA69-A58089E53E53}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4F38763-FF2A-4A8A-AA69-A58089E53E53}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4F38763-FF2A-4A8A-AA69-A58089E53E53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F68AF38D-9507-4D80-9DA2-755D7A9583BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F68AF38D-9507-4D80-9DA2-755D7A9583BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F68AF38D-9507-4D80-9DA2-755D7A9583BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F68AF38D-9507-4D80-9DA2-755D7A9583BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
