@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9_PalindromeNumber", "9_Pal
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_RomanToInteger", "13_RomanToInteger\13_RomanToInteger.csproj", "{91BB9828-B272-41A8-9754-F2C9D9F3DE4E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20_ValidParentheses", "20_ValidParentheses\20_ValidParentheses.csproj", "{3F25FA2D-05A7-4DE3-9138-9D8EEBECB39F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{91BB9828-B272-41A8-9754-F2C9D9F3DE4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91BB9828-B272-41A8-9754-F2C9D9F3DE4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91BB9828-B272-41A8-9754-F2C9D9F3DE4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F25FA2D-05A7-4DE3-9138-9D8EEBECB39F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F25FA2D-05A7-4DE3-9138-9D8EEBECB39F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F25FA2D-05A7-4DE3-9138-9D8EEBECB39F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F25FA2D-05A7-4DE3-9138-9D8EEBECB39F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
