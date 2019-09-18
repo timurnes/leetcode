@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26_RemoveDuplicatesFromSort
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27_RemoveElement", "27_RemoveElement\27_RemoveElement.csproj", "{122A54BB-000E-4856-834B-D0B103FDCF3A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28_ImplementStrStr", "28_ImplementStrStr\28_ImplementStrStr.csproj", "{863A742A-B44E-4EEF-99D1-873D0109ED71}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{122A54BB-000E-4856-834B-D0B103FDCF3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{122A54BB-000E-4856-834B-D0B103FDCF3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{122A54BB-000E-4856-834B-D0B103FDCF3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{863A742A-B44E-4EEF-99D1-873D0109ED71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{863A742A-B44E-4EEF-99D1-873D0109ED71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{863A742A-B44E-4EEF-99D1-873D0109ED71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{863A742A-B44E-4EEF-99D1-873D0109ED71}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
